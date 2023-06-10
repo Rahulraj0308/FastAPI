@@ -44,7 +44,7 @@ raw_trade = [
         "quantity": 42
     },
     "tradeId": "8c8f9d65-ef45-43cc-9253-badac16bdba9",
-    "trader": "Akash"
+    "trader": "Rahul"
     },
     {
         "assetClass": "Bond",
@@ -58,7 +58,7 @@ raw_trade = [
             "quantity": 32
         },
         "tradeId": "f0aed2de-d4d2-4213-bed1-60bd6fb1d2b0",
-        "trader": "Otar"
+        "trader": "Akash"
     },
     {
         "assetClass": "Equity",
@@ -72,7 +72,7 @@ raw_trade = [
             "quantity": 12
         },
         "tradeId": "8ae396c4-94e3-400b-b44a-ebfc06ef131c",
-        "trader": "Koba"
+        "trader": "Satyam"
     },
     {
         "assetClass": "Equity",
@@ -86,7 +86,7 @@ raw_trade = [
             "quantity": 22
         },
         "tradeId": "a3fff395-d13f-4faf-80d6-71b291d43cf0",
-        "trader": "Jaycee"
+        "trader": "Putus"
     }
 ]
 
